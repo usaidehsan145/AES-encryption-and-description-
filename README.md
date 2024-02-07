@@ -22,7 +22,7 @@ The code consists of Python functions to perform various AES operations:
 3. Run the `decrypt_secret_file()` function to decrypt a file encrypted using AES.
 
 ## Files
-- `aes_encryption.py`: Contains the AES encryption and decryption functions.
+- `AES.py`: Contains the AES encryption and decryption functions.
 - `secret.txt`: Sample encrypted file for decryption.
 - `plain.txt`: Output file for decrypted content.
 
